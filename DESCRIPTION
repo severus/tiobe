@@ -15,3 +15,5 @@ RoxygenNote: 7.1.1
 Imports: 
     rvest,
     xml2
+URL: https://github.com/severus/tiobe
+BugReports: https://github.com/severus/tiobe/issues
