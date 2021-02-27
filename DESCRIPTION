@@ -1,0 +1,17 @@
+Package: tiobe
+Title: Extract TIOBE Index
+Version: 1.0.0
+Authors@R: 
+    person(given = "Petr",
+           family = "Razumov",
+           role = c("aut", "cre"),
+           email = "severus@severus.io")
+Description: This package extracts TIOBE Index data as data frames.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    rvest,
+    xml2
