@@ -7,7 +7,7 @@
 hall_of_fame()
 }
 \value{
-A data frame with the folowing columns: Year, Winner.
+A data frame with the following columns: Year, Winner.
 }
 \description{
 This function returns a dataframe containing programming languages hall of

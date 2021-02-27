@@ -3,7 +3,7 @@
 #' This function returns a dataframe containing top 20 programming languages
 #' from TIOBE index.
 #'
-#' @return A data frame with the folowing columns: Position this month,
+#' @return A data frame with the following columns: Position this month,
 #'    Position the same month but previous year, Programming language, Ratings,
 #'    Change.
 #' @export
@@ -19,7 +19,7 @@ top_20 <- function() {
 #' This function returns a dataframe containing top programming languages
 #' from TIOBE index with positions from 21 to 50.
 #'
-#' @return A data frame with the folowing columns: Position, Programming
+#' @return A data frame with the following columns: Position, Programming
 #'    language, Ratings.
 #' @export
 #' @examples
@@ -33,7 +33,7 @@ top_50 <- function() {
 #' This function returns a dataframe containing programming languages hall of
 #' fame from TIOBE index.
 #'
-#' @return A data frame with the folowing columns: Year, Winner.
+#' @return A data frame with the following columns: Year, Winner.
 #' @export
 #' @examples
 #' hall_of_fame()

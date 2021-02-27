@@ -7,7 +7,7 @@
 top_50()
 }
 \value{
-A data frame with the folowing columns: Position, Programming
+A data frame with the following columns: Position, Programming
 language, Ratings.
 }
 \description{

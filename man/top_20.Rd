@@ -7,7 +7,7 @@
 top_20()
 }
 \value{
-A data frame with the folowing columns: Position this month,
+A data frame with the following columns: Position this month,
 Position the same month but previous year, Programming language, Ratings,
 Change.
 }
